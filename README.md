@@ -43,6 +43,8 @@
 <div>
 
  <h1>Fique a vontade para me contatar</h1>
- 
+
+ <div style="display: flex; width: 20px;">
  [<img src="https://t.ctcdn.com.br/IwwDh-BajTE4ZwE4zuIcvz9Q2ZY=/i490027.jpeg"/>](https://www.linkedin.com/in/luiz-nola-4b01a0297/)
+  </div>
 </div>
