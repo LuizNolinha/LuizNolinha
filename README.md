@@ -45,6 +45,6 @@
  <h1>Fique a vontade para me contatar</h1>
 
 
- [<img src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg"/>](https://www.linkedin.com/in/luiz-nola-4b01a0297/)
+ [<img src="https://img.icons8.com/?size=512&id=16166&format=png"/>](https://www.linkedin.com/in/luiz-nola-4b01a0297/)
 
 </div>
