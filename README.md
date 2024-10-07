@@ -3,14 +3,14 @@
 
   <h1>Sou desenvolvedor Web, e as vezes crio umas coisas por aqui</h1>
 
-## Companies I worked with
+## Eu ja trabalhei aqui
 <div>
 <img height="100px" src="https://avatars.githubusercontent.com/u/52802250?s=200&v=4"/>
 <img height="100px" src="https://media.licdn.com/dms/image/D4D0BAQEeNGQmq1h6fQ/company-logo_200_200/0/1701081924866/grupo_elfa_logo?e=2147483647&v=beta&t=J66eC4kdTMfhDEgIvDL5SqxmS446Euy00qIBlrfyj1w"/>
 <img height="100px" src="https://play-lh.googleusercontent.com/gtfQc2NKD3ew5gwomgsjAiS3EP0y9AKGed6sSMDsDhDcOSXRPyRUC0IUqQchEHAwRiI=w240-h480-rw"/>
 <img height="100px" src="https://media.licdn.com/dms/image/D4D0BAQFDvbnbOFT97g/company-logo_200_200/0/1705693558478/jazida_logo?e=2147483647&v=beta&t=l4H-1Ks3M49_IAXA-9sV0JAVn3MPKgo1qX3XJLIMfwQ"/>
   
-## Knowledge
+## Tecnologias 
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -42,5 +42,7 @@
 
 <div>
 
- <h1>Feel free to reach me at</h1>
+ <h1>Fique a vontade para me contatar</h1>
+ 
+ [<img src="https://t.ctcdn.com.br/IwwDh-BajTE4ZwE4zuIcvz9Q2ZY=/i490027.jpeg"/>](https://www.linkedin.com/in/luiz-nola-4b01a0297/)
 </div>
