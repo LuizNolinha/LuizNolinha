@@ -9,6 +9,7 @@
 <img height="100px" src="https://media.licdn.com/dms/image/D4D0BAQEeNGQmq1h6fQ/company-logo_200_200/0/1701081924866/grupo_elfa_logo?e=2147483647&v=beta&t=J66eC4kdTMfhDEgIvDL5SqxmS446Euy00qIBlrfyj1w"/>
 <img height="100px" src="https://play-lh.googleusercontent.com/gtfQc2NKD3ew5gwomgsjAiS3EP0y9AKGed6sSMDsDhDcOSXRPyRUC0IUqQchEHAwRiI=w240-h480-rw"/>
 <img height="100px" src="https://media.licdn.com/dms/image/D4D0BAQFDvbnbOFT97g/company-logo_200_200/0/1705693558478/jazida_logo?e=2147483647&v=beta&t=l4H-1Ks3M49_IAXA-9sV0JAVn3MPKgo1qX3XJLIMfwQ"/>
+<img height="100px" src="https://imagensfree.com.br/wp-content/uploads/2021/11/icone-ifood.png"/>
   
 ## Tecnologias 
 <div style="display: flex; gap: 10px;">
@@ -45,6 +46,6 @@
  <h1>Fique a vontade para me contatar</h1>
 
 
- [<img src="https://img.icons8.com/?size=512&id=16166&format=png"/>](https://www.linkedin.com/in/luiz-nola-4b01a0297/)
+ [<img height="100px" src="https://img.icons8.com/?size=512&id=16166&format=png"/>](https://www.linkedin.com/in/luiz-nola-4b01a0297/)
 
 </div>
